@@ -1,0 +1,21 @@
+{
+  "name": "mostly-dark",
+  "displayName": "Mostly Dark",
+  "description": "Basd on Dark Modern, most of the grey tones have been removed.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mostly Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mostly Dark-color-theme.json"
+      }
+    ]
+  }
+}
